@@ -42,21 +42,5 @@ Mobile Development:     Flutter
 DevOps & Tools:         Docker, Jenkins, Git, RESTful APIs, Socket.IO
 ```
 
-## 💼 Featured Projects
 
-[![Brain Tumor Detection](https://img.shields.io/badge/GitHub-Brain_Tumor_Detection-2ea44f?style=for-the-badge&logo=github)](https://github.com/Kyoz004/DeepLearning-BrainTumor-Classifier)
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Model_Development-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/code/kietdo104/xception-finetuned-brainmritumor-classifier)
 
-[![News Sentiment Analysis](https://img.shields.io/badge/GitHub-News_Sentiment_Analysis-2ea44f?style=for-the-badge&logo=github)](https://github.com/Kyoz004/AI-driven-News-Sentiment-Analysis)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyoz004&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoz004&layout=compact&hide_border=true&theme=github_dark"/>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kaldlabs.kaldlabs"/>
-</div>
